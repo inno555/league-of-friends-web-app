@@ -365,13 +365,11 @@ if st.session_state.page == "home":
                 text-align: center;
             ">
     
-                <h1>
+                
                     🤝 ROCKVILLE LEAGUE OF FRIENDS CLUB
-                </h1>
+                
     
-                <p style="font-size: 20px;">
-                    Friendship • Unity • Savings • Community
-                </p>
+               
     
             </div>
             """,
